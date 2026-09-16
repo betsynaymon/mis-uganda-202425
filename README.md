@@ -4,7 +4,7 @@ This repo analyzes the 2024-2025 DHS Malaria Inidicator Survey (MIS) to identify
 ## Overview
 The goal of this repo was to replicate the findings from the 2024-25 MIS that demonstrates that across all 15 sub-regions, ITN access consistently exceed use. This means that households have enough nets to cover all individuals in the household, but a meaningful share are not sleeping under them. The gap ranges from 13% in Toro to 1% in Lango. These figures were computed from raw DHS microdata and reconciled against the published MIS report. All 30 subregion estimates match the official values within one percentage point. 
 
-![Reconciliation table comparing computed rates against published MIS rates] (images/comparison.png) 
+![Reconciliation table comparing computed rates against published MIS rates](images/comparison.png) 
 
 ## Data
 DHS data is available from [[the DHS website](https://dhsprogram.com/Data/)] for free following registration. Within the Uganda 2024-2025 DHS-9 MIS data, the following datasets are used by this analysis:
