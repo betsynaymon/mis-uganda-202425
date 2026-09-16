@@ -7,7 +7,7 @@ The goal of this repo was to replicate the findings from the 2024-25 MIS that de
 ![Reconciliation table comparing computed rates against published MIS rates](images/comparison.png) 
 
 ## Data
-DHS data is available from [[the DHS website](https://dhsprogram.com/Data/)] for free following registration. Within the Uganda 2024-2025 DHS-9 MIS data, the following datasets are used by this analysis:
+DHS data is available from [the DHS website](https://dhsprogram.com/Data/) for free following registration. Within the Uganda 2024-2025 DHS-9 MIS data, the following datasets are used by this analysis:
 
 - Household Member Recode (Stata datset) = `UGPR91DT.ZIP`
 - Household Recode (State dataset) = `UGHR91DT.ZIP`
