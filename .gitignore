@@ -220,5 +220,10 @@ __marimo__/
 # Data
 data/raw/
 
+<<<<<<< HEAD
 # in progress
 python/02_visualization.ipynb
+=======
+# DS Store
+.DS_Store
+>>>>>>> df344134440b96e44aee77a4ad2e59a847dd60ed
